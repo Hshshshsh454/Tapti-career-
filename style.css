@@ -1,0 +1,15 @@
+/* Existing CSS rules above */
+
+section {
+    margin-bottom: 2em;
+    text-align: center; /* Center the image and text */
+}
+
+/* Style for the image */
+section img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1em;
+}
+
+/* Existing CSS rules below */
